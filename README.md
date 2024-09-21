@@ -6,7 +6,7 @@ Implementation of a solution for basic TM robot arm operations, including six-di
 
 ## **Introduction**
 
-- This code and the ROS package are primarily designed for use with the TM_ROBOT, including:
+- This code and the ROS package are primarily designed for use with the TM robot arm, including:
 
    - Functions for six-dimensional movement of the TM robot arm
    - Functions for grasp control of the TM robot arm
