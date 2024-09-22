@@ -1,4 +1,4 @@
-# TM_RobotArm_Control
+# TM-RobotArm-Control
 
 Implementation of a solution for basic TM robotic arm operations, including six-dimensional movement and gripper control.
 
